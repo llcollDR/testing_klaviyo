@@ -591,7 +591,6 @@
             "asunto_sin_nombre_utf": "¿Estás en lista?🪩🥳 Súmate a nuestra fiesta",
             "asunto_con_nombre_utf": "",
             "club_1_utf": "{{ person.points }} puntos",
-            "club_2_utf": person.points ~ " puntos",
             "View_in_browser_text_utf": "versi&oacute;n online",
             "promo_utf": "",
             "Idioma_utf": "gif-match-accesorios-ES.gif",
