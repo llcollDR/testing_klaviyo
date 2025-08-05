@@ -5,6 +5,7 @@
             "market": "GB",
             "asunto_sin_nombre_utf": "Are you on the list?🪩🥳 Join our party",
             "asunto_con_nombre_utf": "",
+            "club_1_utf": "{{ person.points }} puntos"
             "View_in_browser_text_utf": "online version",
             "promo_utf": "",
             "Idioma_utf": "gif-match-accesorios-EN.gif",
@@ -121,6 +122,7 @@
             "market": "FR",
             "asunto_sin_nombre_utf": "Tu es sur la liste ?🪩🥳 Joins-toi à la fête",
             "asunto_con_nombre_utf": "",
+            "club_1_utf": "{{ person.points }} puntos"
             "View_in_browser_text_utf": "version online",
             "promo_utf": "",
             "Idioma_utf": "gif-match-accesorios-EN.gif",
@@ -239,6 +241,7 @@
             "asunto_con_nombre_utf": "",
             "View_in_browser_text_utf": "version online",
             "promo_utf": "",
+            "club_1_utf": "{{ person.points }} puntos"
             "Idioma_utf": "gif-match-accesorios-EN.gif",
             "country_utf": "",
             "Cond_legal_utf": "",
@@ -353,6 +356,7 @@
             "market": "DE",
             "asunto_sin_nombre_utf": "Stehst du auf der Liste?🪩🥳 Komm zu unserer Party",
             "asunto_con_nombre_utf": "",
+            "club_1_utf": "{{ person.points }} puntos"
             "View_in_browser_text_utf": "Online-Version",
             "promo_utf": "",
             "Idioma_utf": "gif-match-accesorios-EN.gif",
@@ -470,6 +474,7 @@
             "asunto_sin_nombre_utf": "Sei in lista?🪩🥳 Unisciti alla festa",
             "asunto_con_nombre_utf": "",
             "View_in_browser_text_utf": "versione online",
+            "club_1_utf": "{{ person.points }} puntos"
             "promo_utf": "",
             "Idioma_utf": "gif-match-accesorios-EN.gif",
             "country_utf": "",
@@ -585,6 +590,7 @@
             "market": "ES",
             "asunto_sin_nombre_utf": "¿Estás en lista?🪩🥳 Súmate a nuestra fiesta",
             "asunto_con_nombre_utf": "",
+            "club_1_utf": "{{ person.points }} puntos"
             "View_in_browser_text_utf": "versi&oacute;n online",
             "promo_utf": "",
             "Idioma_utf": "gif-match-accesorios-ES.gif",
@@ -703,6 +709,7 @@
             "asunto_con_nombre_utf": "",
             "View_in_browser_text_utf": "versi&oacute;n online",
             "promo_utf": "",
+            "club_1_utf": "{{ person.points }} puntos"
             "Idioma_utf": "gif-match-accesorios-ES.gif",
             "country_utf": "",
             "Cond_legal_utf": "",
@@ -819,6 +826,7 @@
             "asunto_con_nombre_utf": "",
             "View_in_browser_text_utf": "versi&oacute;n online",
             "promo_utf": "",
+            "club_1_utf": "{{ person.points }} puntos"
             "Idioma_utf": "gif-match-accesorios-ES.gif",
             "country_utf": "",
             "Cond_legal_utf": "",
@@ -934,6 +942,7 @@
             "asunto_sin_nombre_utf": "Estás em lista?🪩🥳 Junta-te à nossa festa",
             "asunto_con_nombre_utf": "",
             "View_in_browser_text_utf": "vers&atilde;o online",
+            "club_1_utf": "{{ person.points }} puntos"
             "promo_utf": "",
             "Idioma_utf": "gif-match-accesorios-EN.gif",
             "country_utf": "",
@@ -1050,6 +1059,7 @@
             "asunto_sin_nombre_utf": "Jesteś na liście? 🪩🥳 Dołącz do imprezy",
             "asunto_con_nombre_utf": "",
             "View_in_browser_text_utf": "wersja online",
+            "club_1_utf": "{{ person.points }} puntos"
             "promo_utf": "",
             "Idioma_utf": "gif-match-accesorios-EN.gif",
             "country_utf": "",
